@@ -550,3 +550,5 @@ Repo:
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 34-ssl_expiration.png
+  
+Copyright © 2023 ALX, All rights reserved.
